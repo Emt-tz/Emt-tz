@@ -7,7 +7,7 @@ Full Stack Developer (Tanzania)
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Tanzania
-* 🖥️  See my portfolio at [My Resume](http://emttz.com/profile)
+* 🖥️  See my portfolio at [My Resume](http://vijanatech.com/portfolio2.html)
 * ✉️  You can contact me at [emmanuelmtera8@gmail.com](mailto:emmanuelmtera8@gmail.com)
 * 🚀  I'm currently working on [Shelter on Demand](http://shelterondemand.com)
 * 🧠  I'm learning Gin, Flutter, Express
