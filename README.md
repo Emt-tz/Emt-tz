@@ -7,10 +7,10 @@ Full Stack Developer (Tanzania)
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Tanzania
-* 🖥️  See my portfolio at [The LMS](http://fiqra.academy)
+* 🖥️  See my company at [Fiqra Academy](https://fiqra.academy) and [Fiqra Technologies](https://fiqra.io)
 * ✉️  You can contact me at [emmanuelmtera8@gmail.com](mailto:emmanuelmtera8@gmail.com)
 * 🚀  I'm currently working on [MipangoApp](http://mipangoapp.com)
-* 🧠  I'm learning Gin, Flutter, Express
+* 🧠  I'm learning Kotlin, Flutter and AI
 * 🤝  I'm open to collaborating on interesting Projects
 * ⚡  I am a first learner and highly motivated
 
